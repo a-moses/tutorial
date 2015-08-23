@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <html dir="rtl" lang="he">
 <head>
 </head>
